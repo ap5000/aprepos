@@ -1,28 +1,29 @@
 # About Me
 
-- **Name:** Joseph Bronyah
-- **Preferred Name:** Joseph
-- **UT NetID:** `jbronyah`
-- **GitHub Username:** `jbronyah`
-- **Major:** Computer Science (Ph.D.)
+- **Name:** Aryan Pal
+- **Preferred Name:** Aryan
+- **UT NetID:** `apal7`
+- **GitHub Username:** `ap5000`
+- **Major:** Computer Science (B.S.)
 
 ---
 
 ## Background
 
-I am currently a Ph.D. student in Computer Science at the University of Tennessee, Knoxville. My background involves research in quantum software engineering.
+I am pursuing a B.S. in Computer Science from The University of Tennessee Knoxville with an interest of A.I. and Cybersecurity.
 
 ---
 
 ## Interests & Hobbies
 
-In my research, I focus on the intersection of quantum computing and software engineering. Outside of academics, I enjoy outdoor activities and playing recreational sports like pickleball at [Lakeshore Park](https://www.lakeshoreparkknoxville.org/).
+In my research, I expertise in human-robot interaction and human-centered automation, building accessible robots for older adults with vision impairments. I also develop human-centered robot swarms for real-time hazardous environment characterization. If you are interested in learning more about me, please visit this site:
+https://aryan12678.github.io/Aryan-Biography-/Vision.html
 
 ---
 
 ## Technical Skills & Familiar Tools
 
-- **Programming Languages:** Python, C/C++, SQL, Bash
-- **Quantum Computing Frameworks:** Qiskit, PennyLane
-- **Machine Learning & NLP:** PyTorch, Transformers, Hugging Face
-- **Development & System Tools:** Git, GitHub, Linux/Unix, Conda, Slurm
+- **Programming Languages:** Python, Java, JavaScript, C++, C, C#, Assembly, HTML, CSS
+- **Web & Backend:** Node.js, JavaScript Web Programming
+- **Databases:** SQL, Oracle
+- **Specialized:** Specialized: OpenAI LLMs, Computer Vision, UI/UX, Embedded Systems, Network Security, Human-Robot Interaction
