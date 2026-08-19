@@ -10,7 +10,7 @@
 
 ## Background
 
-I am pursuing a B.S. in Computer Science from The University of Tennessee Knoxville with an interest of A.I. and Cybersecurity.
+I am pursuing a B.S. in Computer Science from The University of Tennessee Knoxville with an interest in A.I. and Cybersecurity.
 
 ---
 
