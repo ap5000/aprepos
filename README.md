@@ -26,4 +26,4 @@ https://aryan12678.github.io/Aryan-Biography-/Vision.html
 - **Programming Languages:** Python, Java, JavaScript, C++, C, C#, Assembly, HTML, CSS
 - **Web & Backend:** Node.js, JavaScript Web Programming
 - **Databases:** SQL, Oracle
-- **Specialized:** Specialized: OpenAI LLMs, Computer Vision, UI/UX, Embedded Systems, Network Security, Human-Robot Interaction
+- **Specialized:** OpenAI LLMs, Computer Vision, UI/UX, Embedded Systems, Network Security, Human-Robot Interaction
